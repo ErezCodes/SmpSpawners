@@ -1,0 +1,15 @@
+name: SmpSpawners
+version: '${version}'
+main: me.erez.smpspawners.Main
+api-version: 1.19
+authors: [ Erez ]
+description: A plugin requested by ryanm#4606
+website: https://builtbybit.com/members/erez_.430071/
+
+commands:
+  findSpawners:
+    description: locates all the spawners that are loaded in the server, you only need to run this command once
+  setFrequency:
+    description: set the frequency of how often spawners produce a spawn
+  frequency:
+    description: check how frequently the spawners produce a spawn

@@ -1,0 +1,4 @@
+frequency: 20.0
+# How frequently the spawners produce a spawn
+# You can use /frequency or change the value manually here, after changing the value here manually, you would have to
+# reload the server for the changes to take effect with /reload confirm
